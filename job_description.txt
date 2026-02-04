@@ -1,6 +1,27 @@
-We are hiring a Software Engineer with strong experience in Python, REST APIs,
-microservices, and cloud platforms such as AWS, Azure, or GCP.
+Job Title: Digital Marketing Manager
 
-The candidate should be able to design production-grade APIs, debug complex
-distributed systems, implement CI/CD pipelines, and collaborate with
-cross-functional teams.
+Location: Remote / US
+
+Job Summary:
+We are seeking a results-driven Digital Marketing Manager to lead our online marketing campaigns, drive brand awareness, and optimize customer acquisition strategies. The ideal candidate will combine analytical skills with creative thinking to deliver measurable marketing outcomes.
+
+Responsibilities:
+- Develop and execute multi-channel digital marketing campaigns (SEO, SEM, social media, email marketing).
+- Analyze marketing data and KPIs to measure campaign performance and ROI.
+- Manage content creation and coordinate with designers, copywriters, and social media teams.
+- Optimize conversion funnels and customer journey across web and mobile platforms.
+- Plan and manage advertising budgets across channels.
+- Stay up-to-date with the latest digital marketing trends and technologies.
+- Collaborate with sales and product teams to align marketing strategy with business goals.
+
+Required Skills:
+- 5+ years of experience in digital marketing or related roles.
+- Strong knowledge of SEO, SEM, Google Ads, social media advertising, and email campaigns.
+- Experience with analytics tools (Google Analytics, HubSpot, Tableau, or similar).
+- Excellent communication, project management, and teamwork skills.
+- Ability to create data-driven marketing strategies and measure impact.
+
+Preferred Skills:
+- Experience with marketing automation platforms (HubSpot, Marketo, Pardot).
+- Familiarity with content management systems (WordPress, Drupal).
+- Knowledge of A/B testing, CRO, and growth marketing tact
