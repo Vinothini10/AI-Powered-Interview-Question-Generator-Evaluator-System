@@ -1,4 +1,4 @@
-# Candidate 1 – Hire
+# Candidate 1
 1. API Design: I designed and deployed RESTful APIs with full versioning (/v1/users), JSON request/response standards, OAuth2 authentication, pagination, rate limiting, and idempotency. All endpoints are covered by unit and integration tests, and successfully supported over 50,000 daily requests in production.
 2. Distributed Systems: I led multi-service transactions using Sagas and event-driven architecture, ensuring 99.99% consistency and reliability across microservices.
 3. Cloud Deployment: I deployed Flask/FastAPI applications on AWS ECS/Fargate with CI/CD pipelines, automated scaling, monitoring with CloudWatch, and proper VPC/subnets and secrets management. All deployments passed load tests.
@@ -6,7 +6,7 @@
 5. Behavioral: I resolved a high-priority team conflict by mediating design disagreements, presenting data-driven decisions, and coordinating cross-functional teams to deliver on time and exceed performance expectations.
 
 
-# Candidate 2 – No-hire
+# Candidate 2
 1. API Design: I know Python but mostly write small scripts. Limited API experience.
 2. Distributed Systems: Worked on single-service apps; no multi-service transaction experience.
 3. Cloud Deployment: Basic cloud usage; no production deployment.
@@ -14,7 +14,7 @@
 5. Behavioral: Rarely involved in team conflict resolution.
 
 
-# Candidate 3 – Irrelevant
+# Candidate 3
 1. I am a professional graphic designer with Photoshop and Illustrator experience.
 2. My work includes managing social media campaigns and content creation.
 3. Retail store operations management.
