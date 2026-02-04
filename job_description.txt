@@ -1,0 +1,6 @@
+We are hiring a Software Engineer with strong experience in Python, REST APIs,
+microservices, and cloud platforms such as AWS, Azure, or GCP.
+
+The candidate should be able to design production-grade APIs, debug complex
+distributed systems, implement CI/CD pipelines, and collaborate with
+cross-functional teams.
